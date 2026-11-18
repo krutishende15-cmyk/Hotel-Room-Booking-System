@@ -1,0 +1,10 @@
+{
+    "101": {
+        "guest": "kruti",
+        "nights": 2
+    },
+    "102": {
+        "guest": "neha",
+        "nights": 3
+    }
+}
